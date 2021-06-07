@@ -39,7 +39,7 @@
 @media(max-width:767px){
     .footer-col{
         width:50%;
-        margin-bottom:30px;
+        /* margin-bottom:30px; */
     }
 }
 .footer-ul li a{
